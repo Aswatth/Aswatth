@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aswatth
 - 👀 I’m interested in developing apps and games
-- 🌱 I’m currently learning Xunit and Selenium
-- 💞️ I’m looking to collaborate on game development projects
+- 🌱 I’m currently learning Xunit, Selenium asn Angular
+- 💞️ I’m looking to collaborate on developing any applications
 - 📫 How to reach me aswatth56@gmail.com
 
 <!---
